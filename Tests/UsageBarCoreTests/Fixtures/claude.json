@@ -1,0 +1,20 @@
+{
+  "five_hour": {
+    "utilization": 2.0,
+    "resets_at": "2026-08-28T23:29:59.845531+00:00",
+    "limit_dollars": null,
+    "used_dollars": null,
+    "remaining_dollars": null
+  },
+  "seven_day": {
+    "utilization": 16.0,
+    "resets_at": "2026-08-31T15:59:59.845574+00:00"
+  },
+  "seven_day_oauth_apps": null,
+  "seven_day_opus": null,
+  "extra_usage": {
+    "is_enabled": true,
+    "monthly_limit": 5000,
+    "used_credits": 0.0
+  }
+}

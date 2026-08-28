@@ -1,0 +1,13 @@
+Marks used only for identification in this local menu extra.
+
+claude.svg / claude.png
+  Claude spark from Simple Icons (CC0)
+  https://simpleicons.org/icons/claude
+
+codex.svg / codex.png
+  OpenAI blossom from Simple Icons (CC0)
+  https://simpleicons.org/icons/openai
+
+grok.svg / grok.png
+  Grok / xAI mark from Lobe Icons (MIT)
+  https://github.com/lobehub/lobe-icons
